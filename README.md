@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
 # 🧾 Deploying osTicket on Azure – Full Walkthrough with Screenshots
 
@@ -5,7 +8,7 @@ This project walks through the full deployment and configuration of **osTicket**
 
 ---
 
-## 🧰 Technologies Used
+## ⚙️ Technologies Used
 
 - **Microsoft Azure** – Cloud platform used to host the virtual machine.
 - **Windows 10 Pro VM** – OS for the deployment.
@@ -18,7 +21,7 @@ This project walks through the full deployment and configuration of **osTicket**
 
 ---
 
-## 🖼️ Step-by-Step Guide (with Screenshots)
+##  Step-by-Step Guide (with Screenshots)
 
 ### 🔹 Step 1: Create a Virtual Machine
 ![Step 1](Ticketing%20Systems(osTicket)/1.%20Creating%20a%20new%20virtual%20machine%20.png)  
